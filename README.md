@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## GitHub Pages
+[![Build Status](https://travis-ci.org/nmuzychuk/nmuzychuk.github.io.svg?branch=master)](https://travis-ci.org/nmuzychuk/nmuzychuk.github.io)
 
 You can use the [editor on GitHub](https://github.com/nmuzychuk/nmuzychuk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

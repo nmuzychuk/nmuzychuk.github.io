@@ -4,7 +4,7 @@ Hi! My name is Nazarii Muzychuk. I am a software engineer interested in web apps
 
 ### Projects
 
-Vel te deserunt similique. Offendit percipitur mel ut. Vel te veri facete contentiones, posse saepe lobortis sea an. Eu mea putant accumsan, ex labores insolens mediocrem mea. Eum interesset contentiones eu, cum equidem maluisset aliquando at, virtute philosophia et eos.
+I usually work on closed source projects, but in my spare time I enjoy making [free software]({{ site.github.owner_url }}).
 
 ### Contact
 

@@ -4,6 +4,11 @@ description: Software engineer
 repository: nmuzychuk/nmuzychuk.github.io
 google_analytics: UA-100998957-1
 
+social:
+  links:
+    - https://www.linkedin.com/in/nazarii-muzychuk
+    - https://github.com/nmuzychuk
+
 gems:
   - jekyll-seo-tag
   - jekyll-sitemap

@@ -9,6 +9,6 @@ social:
     - https://www.linkedin.com/in/nazarii-muzychuk
     - https://github.com/nmuzychuk
 
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-sitemap

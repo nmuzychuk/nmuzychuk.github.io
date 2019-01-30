@@ -4,3 +4,9 @@ _site/
 
 .vagrant/
 ubuntu-xenial-16.04-cloudimg-console.log
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr

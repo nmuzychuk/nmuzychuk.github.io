@@ -1,7 +1,3 @@
-### About
-
-Nazarii Muzychuk is a professional software engineer with expertise in web technologies.
-
 ### Badges
 
 [![oracle-certified-expert](images/oracle-certified-expert-java-ee-6-web-component-developer.png)](https://www.youracclaim.com/badges/854e1c22-2819-431d-a2cd-f7fe03a62c3e/public_url)

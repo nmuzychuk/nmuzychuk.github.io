@@ -1,6 +1,6 @@
 ### Badges
 
-[![oracle-certified-professional-11](images/oracle-certified-professional-java-se-11-developer.png)](https://www.youracclaim.com/earner/earned/badge/e7b6cbd9-ab31-4650-8617-dcc4ebf03dc2)
+[![oracle-certified-professional-11](images/oracle-certified-professional-java-se-11-developer.png)](https://www.youracclaim.com/badges/e7b6cbd9-ab31-4650-8617-dcc4ebf03dc2/public_url)
 [![awssaa](images/awssaa.png)](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-12-10&ci=AWS00674089)
 [![psmi](images/psmi.png)](https://www.scrum.org/certificates/458165)
 [![spring](images/spring.png)](http://bcert.me/sprnwajhq)

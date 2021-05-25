@@ -1,5 +1,5 @@
 ## GitHub Pages
-[![Build Status](https://travis-ci.org/nmuzychuk/nmuzychuk.github.io.svg?branch=master)](https://travis-ci.org/nmuzychuk/nmuzychuk.github.io)
+[![Jekyll site CI](https://github.com/nmuzychuk/nmuzychuk.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/nmuzychuk/nmuzychuk.github.io/actions/workflows/jekyll.yml)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/22be8c8a4bb14a6ca3ce6e287116ed5a)](https://www.codacy.com/app/nmuzychuk/nmuzychuk.github.io)
 
 You can use the [editor on GitHub](https://github.com/nmuzychuk/nmuzychuk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

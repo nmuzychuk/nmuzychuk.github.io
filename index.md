@@ -10,5 +10,6 @@
 [![azure-fundamentals](images/azure-fundamentals.png)](https://www.credly.com/badges/653565a5-bb20-45ad-96dd-cdd6bdf77e70/public_url)
 [![oracle-database-sql-certified-associate](images/oracle-database-sql-certified-associate.png)](https://www.youracclaim.com/badges/1e154615-41ee-4933-a1a9-c27459055de3/public_url)
 
+[![terraform-associate](images/terraform.png)](https://www.credly.com/badges/002534e6-e1c8-4989-a67f-6370e7c272c0)
 [![oracle-certified-professional-8](images/oracle-certified-professional-java-se-8-programmer.png)](https://www.youracclaim.com/badges/b02532dc-bcec-4622-a9e6-1a03df9fbe5b/public_url)
 [![oracle-certified-associate](images/oracle-certified-associate-java-se-8-programmer.png)](https://www.youracclaim.com/badges/21580ed4-a2f5-4f05-92b6-d4773f1dae1a/public_url)

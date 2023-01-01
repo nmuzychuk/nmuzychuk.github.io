@@ -1,4 +1,4 @@
-### Badges
+### Badges (16)
 
 [![oracle-certified-professional-11](images/oracle-certified-professional-java-se-11-developer.png)](https://www.youracclaim.com/badges/e7b6cbd9-ab31-4650-8617-dcc4ebf03dc2/public_url)
 [![awssap](images/awssap.png)](https://www.youracclaim.com/badges/509f8363-1cb7-44bd-97f7-148b89f4973e/public_url)

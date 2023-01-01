@@ -14,6 +14,8 @@
 
 [![oracle-certified-professional-8](images/oracle-certified-professional-java-se-8-programmer.png)](https://www.youracclaim.com/badges/b02532dc-bcec-4622-a9e6-1a03df9fbe5b/public_url)
 [![awscpf](images/awscpf.png)](https://www.credly.com/badges/be1d6e75-e9ee-497c-b838-02ba4446b91e)
+[![aws-security](images/aws-security.png)](https://www.credly.com/badges/4a8a5155-1270-46c6-a037-2d608658ba1d)
+
 [![oracle-database-sql-certified-associate](images/oracle-database-sql-certified-associate.png)](https://www.youracclaim.com/badges/1e154615-41ee-4933-a1a9-c27459055de3/public_url)
 [![togaf9-foundation](images/badge-togaf9-foundation.png)](https://www.credly.com/badges/cc6e02ed-3958-4451-8e76-97e24d19bb1a)
 [![oracle-certified-associate](images/oracle-certified-associate-java-se-8-programmer.png)](https://www.youracclaim.com/badges/21580ed4-a2f5-4f05-92b6-d4773f1dae1a/public_url)

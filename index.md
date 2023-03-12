@@ -7,7 +7,7 @@
 [![aws-security](images/aws-security.png)](https://www.credly.com/badges/4a8a5155-1270-46c6-a037-2d608658ba1d)
 
 [![spring](images/spring.png)](http://bcert.me/sprnwajhq)
-[![dama](images/data-management-fundamentals-master.png)](https://api.badgr.io/public/assertions/pqpB83d_R9O5FjjLoD3VRw)
+[![cdmp-associate](images/cdmp-associate.png)](https://api.badgr.io/public/assertions/Nsz8CZafReSSbnS4GyVkNg)
 [![awssaa](images/awssaa.png)](https://www.youracclaim.com/badges/48fa1990-beec-49df-9682-ce7074629231/public_url)
 [![terraform-associate](images/terraform.png)](https://www.credly.com/badges/002534e6-e1c8-4989-a67f-6370e7c272c0)
 [![psmi](images/psmi.png)](https://www.credly.com/badges/15175dee-2740-4432-b209-5b87bd8d56f5/public_url)

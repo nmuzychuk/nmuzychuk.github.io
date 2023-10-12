@@ -1,14 +1,15 @@
 theme: jekyll-theme-cayman
 title: Nazarii Muzychuk
-description: Software engineer
+description: Software engineer and architect
 repository: nmuzychuk/nmuzychuk.github.io
 google_analytics: UA-100998957-1
 
 social:
   links:
     - https://www.linkedin.com/in/nazarii-muzychuk
-    - https://www.youracclaim.com/user/nazarii-muzychuk
     - https://github.com/nmuzychuk
+    - https://www.credly.com/users/nazarii-muzychuk
+    - https://www.credential.net/profile/nazariimuzychuk83796/wallet
 
 plugins:
   - jekyll-seo-tag
